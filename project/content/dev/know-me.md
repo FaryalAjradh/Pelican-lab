@@ -1,5 +1,5 @@
 Title: Know Me
-Date: 2020-05-12 17:45
+Date: 2020-07-18 10:28
 Category: Personal
 Tags: pelican, publishing, aboutme
 Slug: my-post
@@ -34,7 +34,9 @@ Summary: A short post about myself.
     <li>Cooking</li>
     <li>Reading Books</li>
     <li>Watching <a href="https://www.netflix.com/in/">Netflix</a> & <a href="https://www.youtube.com/">Youtube</a></li>
-
+    <li>Doodling</li>
+    <li>Making Origami</li>
+    <li>Photography</li>
 </ol>
 <hr size="1"  />
 ###Courses Learning
@@ -87,7 +89,7 @@ Summary: A short post about myself.
             <td>★★★★</td>
           </tr>
           <tr>
-            <td>Drawing</td>
+            <td>Doodling</td>
             <td>★★★</td>
           </tr>
         </table>
